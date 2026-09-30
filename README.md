@@ -6,7 +6,7 @@ Developed for the **Snapdragon® AI Lab Build & Present Challenge by Qualcomm** 
 
 ---
 
-## 1. Overview
+## 1. Overview 
 **SnapInsight** transforms raw business spreadsheets, customer records, and financial documents into actionable executive intelligence without compromising data privacy. By decoupling natural language understanding (handled by local small language models) from exact mathematical computations (performed deterministically by Python & Pandas), SnapInsight eliminates numerical AI hallucinations while leveraging **Qualcomm® Hexagon™ NPU** acceleration on Snapdragon HP PCs.
 
 ---
